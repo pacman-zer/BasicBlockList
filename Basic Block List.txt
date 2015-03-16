@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Updated: 10pm, 15 Mar 2015
+! Version 1.1
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -56,25 +56,25 @@
 ###rightAd_rdr
 ###self_serve_ads
 ###skyscraper
-###sponsoredLinks
 ###sponsoredlinks
+###sponsoredLinks
 ###tmglBannerAd
 ###topMPU
 ###top_ad
 ###TOP_RIGHT_BOXAD
 ###yan-sponsored
-##.Ad
 ##.ad
+##.Ad
 ##.ad-banner
 ##.ad-banner-leaderboard
 ##.ad-container
 ##.ad-div
 ##.ad-leaderboard
-##.ad300x250
 ##.Ad300x250
+##.ad300x250
 ##.adblock
-##.adBox
 ##.adbox
+##.adBox
 ##.adContainer
 ##.adHeader
 ##.adHolder
@@ -102,8 +102,8 @@
 ##.gooad
 ##.google-sky
 ##.googleAd
-##.googleAds
 ##.googleads
+##.googleAds
 ##.google_adwords
 ##.headerAd
 ##.headerTextAd
@@ -239,6 +239,7 @@
 @@||dw.com.com/js/dw.js$domain=cnet.com|gamespot.com
 @@||imrworldwide.com^$domain=nzherald.co.nz
 @@||m1.2mdn.net^$object_subrequest,domain=3news.co.nz|four.co.nz|nationalgeographic.com|tv3.co.nz
+amazon.com###AUI_A9AdsMiddleBoxTop
 amazon.com###DAcrt
 amazon.com###DAr2
 amazon.com###DAr7
