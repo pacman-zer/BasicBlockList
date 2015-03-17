@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.4
+! Version 1.5
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -370,6 +370,7 @@ youtube.com##.promoted-videos
 ||doubleclick.net^$~object-subrequest
 ||dw.com.com^
 ||effectivemeasure.net^
+||eventlogger.soundcloud.com^
 ||everesttech.net^
 ||exelator.com^
 ||exponential.com^
