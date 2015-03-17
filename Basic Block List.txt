@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.5
+! Version 1.6
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -293,7 +293,6 @@ youtube.com###watch-channel-brand-div
 youtube.com###watch-related
 youtube.com##.branded-banner-image
 youtube.com##.promoted-videos
-|http://bwp.*/search
 ||112.2o7.net^
 ||204st.us^
 ||247realmedia.com^
@@ -310,7 +309,7 @@ youtube.com##.promoted-videos
 ||adblockdetector.com^
 ||adcash.com^
 ||addthis.com^$third-party
-||adf.ly^$third-party
+||adf.ly^
 ||adlog.com.com^
 ||admeld.com^
 ||adnxs.com^
