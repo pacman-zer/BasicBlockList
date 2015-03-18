@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.6
+! Version 1.7
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -151,7 +151,10 @@
 .nz/ads/
 .php?bannerid=
 .php?zoneid=
-//beacon-$image
+//ads.
+//ads1.
+//log.$script,image
+//metrics.
 //pixel.$script,image
 /1pix.gif?
 /?file=ads&
@@ -263,10 +266,6 @@ filehippo.com##.techbeat-widget-wide-container
 google.com##.ra
 google.com,google.co.nz###pmocntr2
 google.com,google.co.nz###tads
-http://ads.
-http://ads1.
-http://log.$script,image
-http://metrics.
 images/ads/
 imdb.com###amazon-affiliates
 imdb.com###top_rhs_wrapper
