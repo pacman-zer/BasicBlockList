@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.9
+! Version 1.10
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -273,9 +273,7 @@ mail.google.com##.nH.PS
 mail.google.com##.oM
 nzherald.co.nz###mrktImg
 nzherald.co.nz###specialOffersCarousel
-nzherald.co.nz##.marketPlace
 nzherald.co.nz##.nzh-extendedbanner
-nzherald.co.nz##.t_Tooltip_promoTip
 sourceforge.net,trademe.co.nz,yahoo.com##.ads
 telegraph.co.uk###disqus_thread
 telegraph.co.uk##.innerPlugin
