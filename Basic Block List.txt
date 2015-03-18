@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.7
+! Version 1.8
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -375,8 +375,6 @@ youtube.com##.promoted-videos
 ||extreme-dm.com^
 ||farlex.com^$third-party
 ||fastclick.net^
-||filehippo.com/img/b.gif
-||filehippo.com/img/fb.png
 ||flux.com/geo.
 ||fmpub.net^
 ||game-advertising-online.com^
@@ -384,6 +382,7 @@ youtube.com##.promoted-videos
 ||getclicky.com^
 ||glanceguide.com^
 ||googleadservices.com^
+||googletagmanager.com^
 ||gravity.com^
 ||gscounters.
 ||gumgum.com^
@@ -415,6 +414,7 @@ youtube.com##.promoted-videos
 ||monetate.net^
 ||netshelter.net^
 ||newrelic.com^
+||news.filehippo.com^
 ||noisetrade.com/*-ad-
 ||omtrdc.net^
 ||openx.net^
