@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.8
+! Version 1.9
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -454,7 +454,6 @@ youtube.com##.promoted-videos
 ||stats.$script,image
 ||taboola.com^
 ||tealium.hs.llnwd.net^
-||techbeat.com^$domain=filehippo.com
 ||telegraph.co.uk/*/indeed/
 ||telegraph.co.uk/*/tracker.
 ||tribalfusion.com^
