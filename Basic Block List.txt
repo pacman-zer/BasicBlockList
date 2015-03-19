@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.12
+! Version 1.13
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -193,7 +193,6 @@
 /eluminate.js
 /flashcookie/*
 /foresee-
-/gen204?$image
 /gen_204?$image
 /generate_204
 /getAdverts?
@@ -224,7 +223,6 @@
 /sponsors.
 /st?ad_type=
 /swfbin/ad3-
-/takeover.$script
 /track.
 /track/*$image
 /tracking.$third-party
@@ -238,12 +236,10 @@
 ?[AQB]&ndh=
 @@/analytics.js$domain=bbc.com|thewarehouse.co.nz
 @@/webtrends.$domain=canon.com
-@@||2mdn.net/instream/ads_sdk_config.xml
 @@||ads.foxnews.com^
 @@||doubleclick.net/pfadx/DARTSHELLCONFIGXML;dcmt=text/xml;$domain=tv3.co.nz
 @@||dw.com.com/js/dw.js$domain=cnet.com|gamespot.com
 @@||imrworldwide.com^$domain=nzherald.co.nz
-@@||m1.2mdn.net^$object_subrequest,domain=3news.co.nz|four.co.nz|nationalgeographic.com|tv3.co.nz
 AQB=1&ndh=
 _ad_request.
 _ads&
@@ -293,11 +289,8 @@ youtube.com##.promoted-videos
 ||112.2o7.net^
 ||204st.us^
 ||247realmedia.com^
-||2mdn.net^$image
-||2o7.net^$image
 ||4dsply.com^
 ||a.gsmarena.com^
-||accountservices.msn.com/loginmsn.srf?lc=$image
 ||ad-apac.doubleclick.net^
 ||ad.doubleclick.net^$domain=telegraph.co.uk|youtube.com
 ||ad.linksynergy.com^
@@ -372,7 +365,6 @@ youtube.com##.promoted-videos
 ||exelator.com^
 ||exponential.com^
 ||extreme-dm.com^
-||farlex.com^$third-party
 ||fastclick.net^
 ||flux.com/geo.
 ||fmpub.net^
@@ -389,7 +381,6 @@ youtube.com##.promoted-videos
 ||histats.com^
 ||iad.liveperson.net^
 ||id.google.*/verify/
-||img.pulsemgr.com^$third-party
 ||imrworldwide.com^
 ||infolinks.com^
 ||inskinad.com^
@@ -432,7 +423,6 @@ youtube.com##.promoted-videos
 ||pubads.g.doubleclick.net^$domain=youtube.com
 ||quantserve.com^
 ||questionmarket.com^
-||rcm*.amazon.$third-party
 ||recomendedsite.com^
 ||reinvigorate.net^
 ||res-x.com^
@@ -445,7 +435,6 @@ youtube.com##.promoted-videos
 ||scribol.com/txwidget$third-party
 ||serving-sys.com^
 ||shareasale.com^
-||sis.amazon.com^$third-party
 ||sitemeter.com^
 ||skimlinks.com^
 ||skimresources.com^
