@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.11
+! Version 1.12
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -181,7 +181,6 @@
 /analytics.js
 /api/ads/*
 /baynote.js
-/bbc/s?*_referrer=
 /bct?pid=
 /beacon.
 /clear/*/c.gif?
@@ -237,7 +236,7 @@
 /webtrends/*
 /wtid.js
 ?[AQB]&ndh=
-@@/analytics.js?$domain=thewarehouse.co.nz
+@@/analytics.js$domain=bbc.com|thewarehouse.co.nz
 @@/webtrends.$domain=canon.com
 @@||2mdn.net/instream/ads_sdk_config.xml
 @@||ads.foxnews.com^
@@ -366,6 +365,7 @@ youtube.com##.promoted-videos
 ||doubleclick.net/pfadx/
 ||doubleclick.net^$~object-subrequest
 ||dw.com.com^
+||edigitalsurvey.com^
 ||effectivemeasure.net^
 ||eventlogger.soundcloud.com^
 ||everesttech.net^
@@ -439,6 +439,7 @@ youtube.com##.promoted-videos
 ||revsci.net^
 ||richmedia247.com^
 ||rover.ebay.com^
+||sa.bbc.$image
 ||scanalert.com/meter/$third-party
 ||scorecardresearch.com^
 ||scribol.com/txwidget$third-party
