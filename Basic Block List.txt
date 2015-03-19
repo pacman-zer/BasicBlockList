@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.10
+! Version 1.11
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -184,6 +184,7 @@
 /bbc/s?*_referrer=
 /bct?pid=
 /beacon.
+/clear/*/c.gif?
 /cmdatatagutils.js
 /count.json?
 /counter.php?
@@ -410,6 +411,7 @@ youtube.com##.promoted-videos
 ||metrics.brightcove.com^
 ||mixpanel.com^
 ||monetate.net^
+||mpstat.us^
 ||netshelter.net^
 ||newrelic.com^
 ||news.filehippo.com^
@@ -423,6 +425,7 @@ youtube.com##.promoted-videos
 ||owneriq.net^
 ||pagead2.*/pagead/*.js
 ||parsely.com^
+||partnerads.ysm.yahoo.com^
 ||picadmedia.com^
 ||postrelease.com^
 ||pro-market.net^
