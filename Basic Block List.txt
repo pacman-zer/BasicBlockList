@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.13
+! Version 1.14
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -153,9 +153,9 @@
 .php?zoneid=
 //ads.
 //ads1.
-//log.$script,image
+//log.
 //metrics.
-//pixel.$script,image
+//pixel.
 /1pix.gif?
 /?file=ads&
 /?metric=
@@ -193,7 +193,7 @@
 /eluminate.js
 /flashcookie/*
 /foresee-
-/gen_204?$image
+/gen_204?
 /generate_204
 /getAdverts?
 /getads.
@@ -224,8 +224,8 @@
 /st?ad_type=
 /swfbin/ad3-
 /track.
-/track/*$image
-/tracking.$third-party
+/track/*
+/tracking.
 /tracking/*
 /trans_pixel.aspx?
 /triggertag.js
@@ -429,8 +429,8 @@ youtube.com##.promoted-videos
 ||revsci.net^
 ||richmedia247.com^
 ||rover.ebay.com^
-||sa.bbc.$image
-||scanalert.com/meter/$third-party
+||sa.bbc.
+||scanalert.com/meter/
 ||scorecardresearch.com^
 ||scribol.com/txwidget$third-party
 ||serving-sys.com^
