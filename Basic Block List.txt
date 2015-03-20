@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.14
+! Version 1.15
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -187,7 +187,6 @@
 /cmdatatagutils.js
 /count.json?
 /counter.php?
-/csi?v=3&s=
 /customads/*
 /dcs.gif?
 /eluminate.js
@@ -344,6 +343,7 @@ youtube.com##.promoted-videos
 ||crsspxl.com^
 ||crwdcntrl.net^
 ||csi.gstatic.com/csi?
+||csi.gstatic.com^
 ||d1ros97qkrwjf5.cloudfront.net^
 ||d3c3cq33003psk.cloudfront.net^
 ||dailymail.co.uk/*/promoboxes/
