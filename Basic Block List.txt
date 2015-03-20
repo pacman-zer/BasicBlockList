@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.17
+! Version 1.18
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -343,7 +343,6 @@ youtube.com##.promoted-videos
 ||crowdscience.com^
 ||crsspxl.com^
 ||crwdcntrl.net^
-||csi.gstatic.com^
 ||d1ros97qkrwjf5.cloudfront.net^
 ||d3c3cq33003psk.cloudfront.net^
 ||dailymail.co.uk/*/promoboxes/
