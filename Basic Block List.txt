@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.16
+! Version 1.17
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -187,6 +187,7 @@
 /cmdatatagutils.js
 /count.json?
 /counter.php?
+/csi?v=$image
 /customads/*
 /dcs.gif?
 /eluminate.js
