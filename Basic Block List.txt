@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.22
+! Version 1.23
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -296,7 +296,6 @@ youtube.com##.promoted-videos
 ||adblade.com^
 ||adblockdetector.com^
 ||adcash.com^
-||addthis.com^$third-party
 ||adf.ly^
 ||adlog.com.com^
 ||admeld.com^
@@ -441,7 +440,6 @@ youtube.com##.promoted-videos
 ||specificclick.net^
 ||spylog.ru^
 ||statcounter.com^
-||static.addtoany.com^
 ||stats.
 ||taboola.com^
 ||tealium.hs.llnwd.net^
