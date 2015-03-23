@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.20
+! Version 1.21
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -272,7 +272,6 @@ sourceforge.net,trademe.co.nz,yahoo.com##.ads
 telegraph.co.uk###disqus_thread
 telegraph.co.uk##.innerPlugin
 telegraph.co.uk##.summary.iframeSummary.mnIframe
-tripadvisor.com,tripadvisor.co.uk###COMMERCE_TOP
 twitter.com##.promoted-account
 twitter.com##.promoted-tweet
 wikipedia.org###centralNotice
@@ -347,6 +346,7 @@ youtube.com##.promoted-videos
 ||dailymail.co.uk/*/promoboxes/
 ||delivery47.com^
 ||demdex.net^
+||dgy6rx5roq02d.cloudfront.net^
 ||disqus.com/*count.js?
 ||disqus.com/thread.js?url=
 ||dl-rms.com^
@@ -401,6 +401,7 @@ youtube.com##.promoted-videos
 ||mixpanel.com^
 ||monetate.net^
 ||mpstat.us^
+||nanigans.com^
 ||netshelter.net^
 ||newrelic.com^
 ||news.filehippo.com^
