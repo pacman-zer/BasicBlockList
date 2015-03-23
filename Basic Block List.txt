@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.25
+! Version 1.26
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -308,14 +308,13 @@ youtube.com##.promoted-videos
 ||amgdgt.com^
 ||amung.us^
 ||analytics.
-||analytics.edgekey.net^
-||analytics.edgesuite.net^
 ||apnmarketplace.co.nz^
 ||assoc-amazon.com^$third-party
 ||atdmt.com^
 ||banners.itunes.apple.com^
 ||bc.yahoo.com^
 ||beap-bc.yahoo.com^
+||beap.gemini.yahoo.com^
 ||betrad.com^
 ||bkrtx.com^
 ||bluekai.com^
