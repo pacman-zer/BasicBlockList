@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.18
+! Version 1.19
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -121,6 +121,7 @@
 ##.sponsor
 ##.sponsored_links
 ##.topAd
+##.videoads
 ##.wall_ad
 ##.wall_ad_hd
 ##.wpadvert
@@ -326,6 +327,7 @@ youtube.com##.promoted-videos
 ||bluekai.com^
 ||burstnet.com^
 ||buysellads.com^
+||bzgint.com^
 ||casalemedia.com^
 ||cedexis.com^
 ||channelintelligence.com^
@@ -365,7 +367,7 @@ youtube.com##.promoted-videos
 ||exponential.com^
 ||extreme-dm.com^
 ||fastclick.net^
-||flux.com/geo.
+||flux.com^
 ||fmpub.net^
 ||game-advertising-online.com^
 ||geo.yahoo.com^
