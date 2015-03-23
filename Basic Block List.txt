@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.27
+! Version 1.28
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -397,7 +397,6 @@ youtube.com##.promoted-videos
 ||marketo.net^
 ||media6degrees.com^
 ||metrics.
-||metrics.brightcove.com^
 ||mixpanel.com^
 ||monetate.net^
 ||mpstat.us^
