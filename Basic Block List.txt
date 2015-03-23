@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.19
+! Version 1.20
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -236,10 +236,7 @@
 /wtid.js
 ?[AQB]&ndh=
 @@/analytics.js$domain=bbc.com|thewarehouse.co.nz
-@@/webtrends.$domain=canon.com
-@@||ads.foxnews.com^
 @@||doubleclick.net/pfadx/DARTSHELLCONFIGXML;dcmt=text/xml;$domain=tv3.co.nz
-@@||dw.com.com/js/dw.js$domain=cnet.com|gamespot.com
 @@||imrworldwide.com^$domain=nzherald.co.nz
 AQB=1&ndh=
 _ad_request.
