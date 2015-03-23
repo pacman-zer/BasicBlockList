@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.23
+! Version 1.24
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -152,11 +152,6 @@
 .nz/ads/
 .php?bannerid=
 .php?zoneid=
-//ads.
-//ads1.
-//log.
-//metrics.
-//pixel.
 /1pix.gif?
 /?file=ads&
 /?metric=
@@ -301,6 +296,8 @@ youtube.com##.promoted-videos
 ||admeld.com^
 ||adnxs.com^
 ||adroll.com^
+||ads.
+||ads1.
 ||adsbyisocket.com^
 ||adserver.yahoo.com^
 ||adsupply.com^
@@ -393,10 +390,12 @@ youtube.com##.promoted-videos
 ||legolas-media.com^
 ||lijit.com^
 ||linkedin.com/countserv/
+||log.
 ||lognormal.net^
 ||marketingsolutions.yahoo.com^
 ||marketo.net^
 ||media6degrees.com^
+||metrics.
 ||metrics.brightcove.com^
 ||mixpanel.com^
 ||monetate.net^
@@ -417,6 +416,7 @@ youtube.com##.promoted-videos
 ||parsely.com^
 ||partnerads.ysm.yahoo.com^
 ||picadmedia.com^
+||pixel.
 ||postrelease.com^
 ||pro-market.net^
 ||pubads.g.doubleclick.net^$domain=youtube.com
