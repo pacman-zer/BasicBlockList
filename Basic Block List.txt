@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.21
+! Version 1.22
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -226,6 +226,7 @@
 /swfbin/ad3-
 /track.
 /track/*
+/tracker.
 /tracking.
 /tracking/*
 /trans_pixel.aspx?
@@ -441,11 +442,10 @@ youtube.com##.promoted-videos
 ||spylog.ru^
 ||statcounter.com^
 ||static.addtoany.com^
-||stats.$script,image
+||stats.
 ||taboola.com^
 ||tealium.hs.llnwd.net^
 ||telegraph.co.uk/*/indeed/
-||telegraph.co.uk/*/tracker.
 ||tribalfusion.com^
 ||triggit.com^
 ||turn.com^
