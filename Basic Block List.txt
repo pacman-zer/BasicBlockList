@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.32
+! Version 1.33
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -453,6 +453,7 @@ youtube.com##.promoted-videos
 ||verticalacuity.com/vat/
 ||viglink.com^
 ||visualrevenue.com^
+||vizury.com^
 ||w55c.net^
 ||webads.co.nz^
 ||webmd.com/*&affiliate=
