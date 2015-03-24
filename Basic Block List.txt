@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.28
+! Version 1.29
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -126,10 +126,10 @@
 ##.wall_ad_hd
 ##.wpadvert
 ##.y7-advertisement
+##A[href^="http://ad.doubleclick.net/"]
 ##A[href^="http://www.ringtonematcher.com/"]
 ##A[title="Advertising"]
 ##DIV[id^="div-gpt-ad-"]
-##[href^="http://ad.doubleclick.net/clk;"]
 &ad_size=
 &adunit=
 &aff_id=
