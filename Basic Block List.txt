@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.31
+! Version 1.32
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -157,6 +157,7 @@
 /Count.cgi?
 /__utm.gif
 /ad.html?
+/ad.php?
 /ad1.
 /adimages.
 /adloader.
@@ -422,6 +423,7 @@ youtube.com##.promoted-videos
 ||quantserve.com^
 ||questionmarket.com^
 ||recomendedsite.com^
+||referrer.disqus.com^
 ||reinvigorate.net^
 ||res-x.com^
 ||revsci.net^
