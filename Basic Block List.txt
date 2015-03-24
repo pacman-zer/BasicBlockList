@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.29
+! Version 1.30
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -325,8 +325,7 @@ youtube.com##.promoted-videos
 ||casalemedia.com^
 ||cedexis.com^
 ||channelintelligence.com^
-||chartbeat.com^
-||chartbeat.net^
+||chartbeat.
 ||chitika.net^
 ||clickfuse.com^
 ||clicktale.net^
@@ -465,7 +464,6 @@ youtube.com##.promoted-videos
 ||yadro.ru^
 ||yahoo.com/contextual-shortcuts
 ||yandex.ru^
-||yieldmanager.com^
-||yieldmanager.net^
+||yieldmanager.
 ||ytimg.com/*_background.jpg
 ||zedo.com^
