@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.34
+! Version 1.35
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -145,6 +145,7 @@
 .com/advert/
 .com/advertising/
 .com/b.gif?
+.com/countserv/
 .com/metrics/
 .eu/ads/
 .net/ads/
@@ -231,7 +232,6 @@
 /wtid.js
 ?[AQB]&ndh=
 @@||doubleclick.net/pfadx/DARTSHELLCONFIGXML;dcmt=text/xml;$domain=tv3.co.nz
-@@||imrworldwide.com^$domain=nzherald.co.nz
 AQB=1&ndh=
 _ad_request.
 _ads&
@@ -262,7 +262,7 @@ mail.google.com##.oM
 nzherald.co.nz###mrktImg
 nzherald.co.nz###specialOffersCarousel
 nzherald.co.nz##.nzh-extendedbanner
-sourceforge.net,trademe.co.nz,yahoo.com##.ads
+sourceforge.net##.ads
 telegraph.co.uk###disqus_thread
 telegraph.co.uk##.innerPlugin
 telegraph.co.uk##.summary.iframeSummary.mnIframe
@@ -388,7 +388,6 @@ youtube.com##.promoted-videos
 ||l.ooyala.com^
 ||legolas-media.com^
 ||lijit.com^
-||linkedin.com/countserv/
 ||log.
 ||lognormal.net^
 ||marketingsolutions.yahoo.com^
