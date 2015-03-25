@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.33
+! Version 1.34
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -174,7 +174,6 @@
 /advertising_
 /affiliate_
 /afr.php?
-/analytics.js
 /api/ads/*
 /baynote.js
 /bct?pid=
@@ -231,7 +230,6 @@
 /webtrends/*
 /wtid.js
 ?[AQB]&ndh=
-@@/analytics.js$domain=bbc.com|thewarehouse.co.nz|trustedreviews.com
 @@||doubleclick.net/pfadx/DARTSHELLCONFIGXML;dcmt=text/xml;$domain=tv3.co.nz
 @@||imrworldwide.com^$domain=nzherald.co.nz
 AQB=1&ndh=
