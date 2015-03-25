@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.36
+! Version 1.37
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -231,7 +231,6 @@
 /webtrends/*
 /wtid.js
 ?[AQB]&ndh=
-@@||doubleclick.net/pfadx/DARTSHELLCONFIGXML;dcmt=text/xml;$domain=tv3.co.nz
 AQB=1&ndh=
 _ad_request.
 _ads&
