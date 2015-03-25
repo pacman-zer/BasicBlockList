@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.35
+! Version 1.36
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
@@ -284,7 +284,6 @@ youtube.com##.promoted-videos
 ||4dsply.com^
 ||a.gsmarena.com^
 ||ad-apac.doubleclick.net^
-||ad.doubleclick.net^$domain=telegraph.co.uk|youtube.com
 ||ad.linksynergy.com^
 ||adadvisor.net^
 ||adblade.com^
@@ -350,6 +349,7 @@ youtube.com##.promoted-videos
 ||dnn506yrbagrg.cloudfront.net^
 ||dotomi.com^
 ||doubleclick.net/pfadx/
+||doubleclick.net^$domain=telegraph.co.uk|youtube.com
 ||doubleclick.net^$~object-subrequest
 ||dw.com.com^
 ||edigitalsurvey.com^
@@ -416,7 +416,6 @@ youtube.com##.promoted-videos
 ||pixel.
 ||postrelease.com^
 ||pro-market.net^
-||pubads.g.doubleclick.net^$domain=youtube.com
 ||quantserve.com^
 ||questionmarket.com^
 ||recomendedsite.com^
