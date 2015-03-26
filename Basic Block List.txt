@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version 1.38
+! Version 1.39
 ! Expires: 1 hours
 !
 ! Title: Basic Block List
-! Homepage:
+! Homepage: http://pacman-zer.github.io/BasicBlockList/
 !
 ! ---------- Basic Block List ---------- >>>>>
 !
