@@ -1,17 +1,17 @@
 [Adblock Plus 2.0]
-! Version 1.39
+! Version 1.40
 ! Expires: 1 hours
 !
-! Title: Basic Block List
-! Homepage: http://pacman-zer.github.io/BasicBlockList/
+! Title: Blockzilla
+! Homepage: http://pacman-zer.github.io/Blockzilla/
 !
-! ---------- Basic Block List ---------- >>>>>
+! ---------- Blockzilla ---------- >>>>>
 !
 ! An Adblock Plus filter subscription.
 ! For optimal performance, use the Firefox browser.
 ! Eliminates advertisments and blocks trackers.
 !
-! ---------- Basic Block List ---------- >>>>>
+! ---------- Blockzilla ---------- >>>>>
 !
 ###A9AdsMiddleBoxTop
 ###AUI_A9AdsMiddleBoxTop
