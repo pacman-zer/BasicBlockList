@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.42
+! Version 1.43
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -242,12 +242,7 @@ amazon.com###DAcrt
 amazon.com###DAr2
 amazon.com###DAr7
 facebook.com###pagelet_side_ads
-facebook.com##.-cx-PUBLIC-fbAdUnit__root
-facebook.com##._24n
 facebook.com##.ego_unit_container
-facebook.com##.emuEventfad_coverpageclick
-facebook.com##.emuEventfad_strcoverphotolinkclick
-facebook.com##.emuEventfad_strvideolinkclick
 filehippo.com###techbeat-widget
 filehippo.com##.techbeat-widget-wide-container
 google.com##.ra
@@ -257,7 +252,6 @@ images/ads/
 imdb.com###amazon-affiliates
 imdb.com###top_rhs_wrapper
 mail.google.com##.nH.PS
-mail.google.com##.oM
 nzherald.co.nz###mrktImg
 nzherald.co.nz###specialOffersCarousel
 nzherald.co.nz##.nzh-extendedbanner
@@ -272,11 +266,8 @@ yahoo.com###dmRosAdWrapper-MainNorth
 yahoo.com###dmRosAdWrapper-MainSouth
 yahoo.com##LI[data-beacon^="https://beap.gemini.yahoo.com/"]
 youtube.com###feed-main-what_to_watch
-youtube.com###premium-yva
 youtube.com###watch-channel-brand-div
 youtube.com###watch-related
-youtube.com##.branded-banner-image
-youtube.com##.promoted-videos
 ||112.2o7.net^
 ||204st.us^
 ||247realmedia.com^
