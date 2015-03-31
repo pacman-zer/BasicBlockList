@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.41
+! Version 1.42
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -297,6 +297,7 @@ youtube.com##.promoted-videos
 ||ads1.
 ||adsbyisocket.com^
 ||adserver.yahoo.com^
+||adsnative.com^
 ||adsupply.com^
 ||advertising.rbg.net.nz^
 ||adzerk.net^
@@ -316,6 +317,7 @@ youtube.com##.promoted-videos
 ||betrad.com^
 ||bkrtx.com^
 ||bluekai.com^
+||boomtrain.com^
 ||burstnet.com^
 ||buysellads.com^
 ||bzgint.com^
@@ -465,3 +467,4 @@ youtube.com##.promoted-videos
 ||yieldmanager.
 ||ytimg.com/*_background.jpg
 ||zedo.com^
+||zergnet.com^$third-party
