@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.43
+! Version 1.44
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -444,7 +444,6 @@ youtube.com###watch-related
 ||vizury.com^
 ||w55c.net^
 ||webads.co.nz^
-||webmd.com/*&affiliate=
 ||webtrends.com^
 ||webtrendslive.com^
 ||wikia-beacon.com^
