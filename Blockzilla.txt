@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.44
+! Version 1.45
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -82,6 +82,7 @@
 ##.adHolder
 ##.adNoOutline
 ##.adSpace
+##.ad_300_250
 ##.ad_300x250
 ##.ad_728x90
 ##.ad_top
@@ -100,6 +101,7 @@
 ##.article_ad
 ##.banner-ad
 ##.bannerAd
+##.display-ad
 ##.frame_adv
 ##.gooad
 ##.google-sky
@@ -107,8 +109,10 @@
 ##.googleAds
 ##.google_adwords
 ##.googleads
+##.has-ad
 ##.headerAd
 ##.headerTextAd
+##.home-ad-container
 ##.item-container-ad
 ##.marketing-ad
 ##.mpu
@@ -279,6 +283,7 @@ youtube.com###watch-related
 ||adblade.com^
 ||adblockdetector.com^
 ||adcash.com^
+||addthis.com^$third-party
 ||adf.ly^
 ||adlog.com.com^
 ||admeld.com^
@@ -358,8 +363,11 @@ youtube.com###watch-related
 ||geo.yahoo.com^
 ||getclicky.com^
 ||glanceguide.com^
+||google-analytics.com/collect?
 ||googleadservices.com^
 ||googletagmanager.com^
+||googletagservices.com^
+||graph.facebook.com^$third-party
 ||gravity.com^
 ||gscounters.
 ||gumgum.com^
@@ -380,6 +388,7 @@ youtube.com###watch-related
 ||l.ooyala.com^
 ||legolas-media.com^
 ||lijit.com^
+||linkedin.com^$third-party
 ||log.
 ||lognormal.net^
 ||marketingsolutions.yahoo.com^
@@ -405,6 +414,7 @@ youtube.com###watch-related
 ||parsely.com^
 ||partnerads.ysm.yahoo.com^
 ||picadmedia.com^
+||pinterest.com^$third-party
 ||pixel.
 ||postrelease.com^
 ||pro-market.net^
