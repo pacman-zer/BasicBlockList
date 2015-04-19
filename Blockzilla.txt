@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.47
+! Version 1.48
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -8,7 +8,6 @@
 ! ---------- Blockzilla ---------- >>>>>
 !
 ! An Adblock Plus filter subscription.
-! For optimal performance, use the Firefox browser.
 ! Blocks advertisments and trackers.
 !
 ! ---------- Blockzilla ---------- >>>>>
