@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.46
+! Version 1.47
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -371,7 +371,7 @@ youtube.com###watch-related
 ||gravity.com^
 ||gscounters.
 ||gumgum.com^
-||gwallet.com/*/pixel/
+||gwallet.com^
 ||histats.com^
 ||iad.liveperson.net^
 ||id.google.*/verify/
