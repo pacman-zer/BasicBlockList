@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.45
+! Version 1.46
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -404,11 +404,10 @@ youtube.com###watch-related
 ||news.filehippo.com^
 ||noisetrade.com/*-ad-
 ||omtrdc.net^
-||openx.net^
-||openx.org^
+||openx.
 ||optimizely.com^
 ||optimost.com^
-||outbrain.com/utils/get?url=
+||outbrain.com^$third-party
 ||owneriq.net^
 ||pagead2.*/pagead/*.js
 ||parsely.com^
@@ -430,7 +429,7 @@ youtube.com###watch-related
 ||sa.bbc.
 ||scanalert.com/meter/
 ||scorecardresearch.com^
-||scribol.com/txwidget$third-party
+||scribol.com^$third-party
 ||serving-sys.com^
 ||shareasale.com^
 ||sitemeter.com^
