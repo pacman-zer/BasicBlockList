@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.49
+! Version 1.50
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -362,7 +362,7 @@ youtube.com###watch-related
 ||geo.yahoo.com^
 ||getclicky.com^
 ||glanceguide.com^
-||google-analytics.com/*/collect?
+||google-analytics.com/*collect?
 ||googleadservices.com^
 ||googletagmanager.com^
 ||googletagservices.com^
