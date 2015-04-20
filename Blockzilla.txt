@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.52
+! Version 1.53
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -182,7 +182,7 @@
 /baynote.js
 /bct?pid=
 /beacon.
-/clear/*/c.gif?
+/c.gif?
 /cmdatatagutils.js
 /count.json?
 /counter.php?
