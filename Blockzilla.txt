@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.54
+! Version 1.55
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -268,6 +268,7 @@ twitter.com##.promoted-tweet
 wikipedia.org###centralNotice
 yahoo.com###dmRosAdWrapper-MainNorth
 yahoo.com###dmRosAdWrapper-MainSouth
+yahoo.com###my-adsFPAD-base
 yahoo.com##LI[data-beacon^="https://beap.gemini.yahoo.com/"]
 youtube.com###feed-main-what_to_watch
 youtube.com###watch-channel-brand-div
