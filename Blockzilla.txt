@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.55
+! Version 1.56
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -326,6 +326,7 @@ youtube.com###watch-related
 ||chitika.net^
 ||clickfuse.com^
 ||clicktale.net^
+||cloudfront.net/*&referrer=
 ||cloudfront.net/atrk.js
 ||collective-media.net^
 ||content.ad^
@@ -335,18 +336,14 @@ youtube.com###watch-related
 ||crowdscience.com^
 ||crsspxl.com^
 ||crwdcntrl.net^
-||d1ros97qkrwjf5.cloudfront.net^
-||d3c3cq33003psk.cloudfront.net^
 ||dailymail.co.uk/*/promoboxes/
 ||delivery47.com^
 ||demdex.net^
-||dgy6rx5roq02d.cloudfront.net^
 ||disqus.com/*count.js?
 ||disqus.com/api/ping?
 ||disqus.com/thread.js?url=
 ||dl-rms.com^
 ||dmtracker.com^
-||dnn506yrbagrg.cloudfront.net^
 ||dotomi.com^
 ||doubleclick.net/pfadx/
 ||doubleclick.net^$domain=telegraph.co.uk|youtube.com
@@ -388,11 +385,13 @@ youtube.com###watch-related
 ||jscount.com^
 ||kissmetrics.com^
 ||kontera.com^
+||korrelate.net^
 ||krxd.net^
 ||l.ooyala.com^
 ||legolas-media.com^
 ||lijit.com^
 ||linkedin.com^$third-party
+||livefyre.com^$xmlhttprequest
 ||log.
 ||lognormal.net^
 ||marketingsolutions.yahoo.com^
@@ -437,6 +436,7 @@ youtube.com###watch-related
 ||scribol.com^$third-party
 ||serving-sys.com^
 ||shareasale.com^
+||simplereach.com^
 ||sitemeter.com^
 ||skimlinks.com^
 ||skimresources.com^
@@ -473,3 +473,6 @@ youtube.com###watch-related
 ||ytimg.com/*_background.jpg
 ||zedo.com^
 ||zergnet.com^$third-party
+! ---------- Exceptions ----------
+!
+@@/beacon.$domain=engadget.com
