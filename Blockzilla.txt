@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.60
+! Version 1.61
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -411,6 +411,7 @@ youtube.com###watch-related
 ||newrelic.com^
 ||news.filehippo.com^
 ||noisetrade.com/*-ad-
+||omnitagjs.com^
 ||omtrdc.net^
 ||openx.
 ||optimizely.com^
