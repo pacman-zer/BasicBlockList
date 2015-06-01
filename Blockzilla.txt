@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.62
+! Version 1.63
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -135,6 +135,7 @@
 ##A[href^="http://ad.doubleclick.net/"]
 ##A[href^="http://www.ringtonematcher.com/"]
 ##A[title="Advertising"]
+##DIV[class^="box-ad"]
 ##DIV[id^="div-gpt-ad-"]
 &ad_size=
 &adunit=
@@ -334,6 +335,7 @@ youtube.com###watch-related
 ||cloudfront.net/atrk.js
 ||cloudfront.net/opentag-
 ||collective-media.net^
+||comscore.com^
 ||content.ad^
 ||contextweb.com^
 ||coremetrics.com^
