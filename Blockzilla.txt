@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.63
+! Version 1.64
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -460,6 +460,7 @@ youtube.com###watch-related
 ||tribalfusion.com^
 ||triggit.com^
 ||turn.com^
+||tvnz.co.nz/*/izombie/
 ||tynt.com^
 ||v.fwmrm.net/ad/
 ||verticalacuity.com/vat/
