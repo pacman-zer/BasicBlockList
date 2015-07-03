@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.64
+! Version 1.65
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -259,6 +259,7 @@ google.com,google.co.nz###tads
 images/ads/
 imdb.com###amazon-affiliates
 imdb.com###top_rhs_wrapper
+mail.google.com##.aKB
 mail.google.com##.nH.PS
 nzherald.co.nz###mrktImg
 nzherald.co.nz###specialOffersCarousel
@@ -293,6 +294,7 @@ youtube.com###watch-related
 ||adlog.com.com^
 ||admeld.com^
 ||adnxs.com^
+||adreadytractions.com^
 ||adroll.com^
 ||ads.
 ||ads1.
@@ -300,6 +302,7 @@ youtube.com###watch-related
 ||adserver.yahoo.com^
 ||adsnative.com^
 ||adsupply.com^
+||advertising.com^
 ||advertising.rbg.net.nz^
 ||adzerk.net^
 ||aimatch.com^
@@ -352,6 +355,7 @@ youtube.com###watch-related
 ||disqus.com/thread.js?url=
 ||dl-rms.com^
 ||dmtracker.com^
+||domdex.com^
 ||dotomi.com^
 ||doubleclick.net/pfadx/
 ||doubleclick.net^$domain=telegraph.co.uk|youtube.com
@@ -437,6 +441,7 @@ youtube.com###watch-related
 ||reinvigorate.net^
 ||res-x.com^
 ||revsci.net^
+||rfihub.
 ||richmedia247.com^
 ||rover.ebay.com^
 ||sa.bbc.
