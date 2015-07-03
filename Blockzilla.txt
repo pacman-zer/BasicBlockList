@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.65
+! Version 1.66
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -314,6 +314,7 @@ youtube.com###watch-related
 ||apnmarketplace.co.nz^
 ||assoc-amazon.com^$third-party
 ||atdmt.com^
+||ayboll.com^
 ||banners.itunes.apple.com^
 ||bazaarvoice.com/*.gif?
 ||bc.yahoo.com^
@@ -372,6 +373,7 @@ youtube.com###watch-related
 ||flix360.com^
 ||flux.com^
 ||fmpub.net^
+||foxsnews.net^
 ||game-advertising-online.com^
 ||geo.yahoo.com^
 ||getclicky.com^
@@ -459,6 +461,7 @@ youtube.com###watch-related
 ||stackadapt.com^
 ||statcounter.com^
 ||stats.
+||swoop.com^
 ||taboola.com^
 ||tealium.hs.llnwd.net^
 ||telegraph.co.uk/*/indeed/
@@ -485,6 +488,7 @@ youtube.com###watch-related
 ||yahoo.com/contextual-shortcuts
 ||yandex.ru^
 ||yieldmanager.
+||yldbt.com^
 ||ytimg.com/*_background.jpg
 ||zedo.com^
 ||zergnet.com^$third-party
