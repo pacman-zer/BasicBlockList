@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.67
+! Version 1.68
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -454,6 +454,7 @@ youtube.com###watch-related
 ||serving-sys.com^
 ||shareasale.com^
 ||simplereach.com^
+||siteapps.com^$third-party
 ||sitemeter.com^
 ||skimlinks.com^
 ||skimresources.com^
