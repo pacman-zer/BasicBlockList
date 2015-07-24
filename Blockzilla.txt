@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.68
+! Version 1.69
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -363,6 +363,7 @@ youtube.com###watch-related
 ||doubleclick.net^$domain=telegraph.co.uk|youtube.com
 ||doubleclick.net^$~object-subrequest
 ||dw.com.com^
+||dynamicyield.com^
 ||edigitalsurvey.com^
 ||effectivemeasure.net^
 ||eventlogger.soundcloud.com^
@@ -391,6 +392,7 @@ youtube.com###watch-related
 ||histats.com^
 ||iad.liveperson.net^
 ||id.google.*/verify/
+||igodigital.com^
 ||imrworldwide.com^
 ||infolinks.com^
 ||inskinad.com^
@@ -415,6 +417,7 @@ youtube.com###watch-related
 ||metrics.
 ||mixpanel.com^
 ||monetate.net^
+||mookie1.com^
 ||mpstat.us^
 ||nanigans.com^
 ||netshelter.net^
