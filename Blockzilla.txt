@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.71
+! Version 1.72
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -470,6 +470,7 @@ youtube.com###watch-related
 ||stats.
 ||swoop.com^
 ||taboola.com^
+||tagsrvcs.com^
 ||tealium.hs.llnwd.net^
 ||telegraph.co.uk/*/indeed/
 ||tribalfusion.com^
