@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.70
+! Version 1.71
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -433,7 +433,7 @@ youtube.com###watch-related
 ||owneriq.net^
 ||pagead2.*/pagead/*.js
 ||parsely.com^
-||partnerads.ysm.yahoo.com^
+||partnerads.
 ||partnerads1.
 ||peer39.net^
 ||picadmedia.com^
