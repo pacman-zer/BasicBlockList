@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.72
+! Version 1.73
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -251,8 +251,6 @@ amazon.com###DAr2
 amazon.com###DAr7
 facebook.com###pagelet_side_ads
 facebook.com##.ego_unit_container
-filehippo.com###techbeat-widget
-filehippo.com##.techbeat-widget-wide-container
 google.com##.ra
 google.com,google.co.nz###pmocntr2
 google.com,google.co.nz###tads
@@ -422,7 +420,6 @@ youtube.com###watch-related
 ||nanigans.com^
 ||netshelter.net^
 ||newrelic.com^
-||news.filehippo.com^
 ||noisetrade.com/*-ad-
 ||omnitagjs.com^
 ||omtrdc.net^
