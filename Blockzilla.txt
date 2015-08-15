@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.74
+! Version 1.75
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -12,6 +12,8 @@
 !
 ! ---------- Blockzilla ---------- >>>>>
 !
+###logoBannerBox
+##.section-aside-ad2
 ###A9AdsMiddleBoxTop
 ###AUI_A9AdsMiddleBoxTop
 ###Ad160x600_0_adchoice
@@ -373,7 +375,7 @@ youtube.com###watch-related
 ||flix360.com^
 ||flux.com^
 ||fmpub.net^
-||foxsnews.net^
+||foxsnews.net^$popup
 ||game-advertising-online.com^
 ||geo.yahoo.com^
 ||getclicky.com^
