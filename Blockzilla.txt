@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.78
+! Version 1.79
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -475,6 +475,7 @@ youtube.com###watch-related
 ||teads.tv^
 ||tealium.hs.llnwd.net^
 ||telegraph.co.uk/*/indeed/
+||trackalyzer.com^
 ||tribalfusion.com^
 ||triggit.com^
 ||turn.com^
