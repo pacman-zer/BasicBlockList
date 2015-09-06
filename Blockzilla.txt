@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.81
+! Version 1.82
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -113,6 +113,7 @@
 ##.google_adwords
 ##.googleads
 ##.has-ad
+##.header-ads-1
 ##.headerAd
 ##.headerTextAd
 ##.home-ad-container
@@ -128,7 +129,9 @@
 ##.sidebar-ad
 ##.sponsor
 ##.sponsored_links
+##.square-ads
 ##.topAd
+##.vertical-ads
 ##.videoads
 ##.wall_ad
 ##.wall_ad_hd
@@ -421,10 +424,12 @@ youtube.com###watch-related
 ||monetate.net^
 ||mookie1.com^
 ||mpstat.us^
+||mucocutaneousmyrmecophaga.com^
 ||nanigans.com^
 ||netshelter.net^
 ||newrelic.com^
 ||noisetrade.com/*-ad-
+||odesaconflate.com^
 ||omnitagjs.com^
 ||omtrdc.net^
 ||online-metrix.net^
@@ -504,6 +509,7 @@ youtube.com###watch-related
 ||ytimg.com/*_background.jpg
 ||zedo.com^
 ||zergnet.com^$third-party
+||ziccardia.com^
 !
 ! ---------- Exceptions ----------
 !
