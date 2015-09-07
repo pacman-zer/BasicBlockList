@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.82
+! Version 1.83
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -308,6 +308,7 @@ youtube.com###watch-related
 ||advertising.com^
 ||advertising.rbg.net.nz^
 ||adzerk.net^
+||agilone.com^
 ||aimatch.com^
 ||akamaihd.net/hads-
 ||alexa.com^
