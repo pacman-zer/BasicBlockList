@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.83
+! Version 1.84
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -31,6 +31,7 @@
 ###adSpace1
 ###adSpace2
 ###ad_banner
+###ad_island2
 ###adcontainer1
 ###adcontainer3
 ###adholder
@@ -344,6 +345,7 @@ youtube.com###watch-related
 ||clicktale.net^
 ||cloudfront.net/*&referrer=
 ||cloudfront.net/atrk.js
+||cloudfront.net/log.js
 ||cloudfront.net/opentag-
 ||collective-media.net^
 ||comscore.com^
