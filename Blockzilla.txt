@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.84
+! Version 1.85
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -194,6 +194,7 @@
 /beacon.
 /c.gif?
 /cmdatatagutils.js
+/cookie_backup.php?
 /count.json?
 /counter.php?
 /csi?v=$image
@@ -306,6 +307,7 @@ youtube.com###watch-related
 ||adserver.yahoo.com^
 ||adsnative.com^
 ||adsupply.com^
+||adsymptotic.com^
 ||advertising.com^
 ||advertising.rbg.net.nz^
 ||adzerk.net^
@@ -347,7 +349,7 @@ youtube.com###watch-related
 ||cloudfront.net/atrk.js
 ||cloudfront.net/log.js
 ||cloudfront.net/opentag-
-||collective-media.net^
+||media.net^
 ||comscore.com^
 ||content.ad^
 ||contextweb.com^
@@ -356,6 +358,8 @@ youtube.com###watch-related
 ||crowdscience.com^
 ||crsspxl.com^
 ||crwdcntrl.net^
+||cxense.com^
+||d8rk54i4mohrb.cloudfront.net^
 ||dailymail.co.uk/*/promoboxes/
 ||dailymail.co.uk/s/l?t=
 ||delivery47.com^
@@ -424,6 +428,7 @@ youtube.com###watch-related
 ||media6degrees.com^
 ||metrics.
 ||mixpanel.com^
+||moatads.com^
 ||monetate.net^
 ||mookie1.com^
 ||mpstat.us^
@@ -500,6 +505,7 @@ youtube.com###watch-related
 ||webads.co.nz^
 ||webtrendslive.com^
 ||wikia-beacon.com^
+||wordpress.com/remote-login.php?$third-party
 ||ws.amazon.*/widgets/$third-party
 ||wunderloop.net^
 ||xiti.com^
