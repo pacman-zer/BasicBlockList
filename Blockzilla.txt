@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.85
+! Version 1.86
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -349,7 +349,6 @@ youtube.com###watch-related
 ||cloudfront.net/atrk.js
 ||cloudfront.net/log.js
 ||cloudfront.net/opentag-
-||media.net^
 ||comscore.com^
 ||content.ad^
 ||contextweb.com^
@@ -425,6 +424,7 @@ youtube.com###watch-related
 ||lognormal.net^
 ||marketingsolutions.yahoo.com^
 ||marketo.net^
+||media.net^
 ||media6degrees.com^
 ||metrics.
 ||mixpanel.com^
@@ -434,11 +434,13 @@ youtube.com###watch-related
 ||mpstat.us^
 ||mucocutaneousmyrmecophaga.com^
 ||nanigans.com^
+||neighbourly.co.nz^$third-party
 ||netshelter.net^
 ||newrelic.com^
 ||noisetrade.com/*-ad-
 ||odesaconflate.com^
 ||omnitagjs.com^
+||omniture.stuff.co.nz^
 ||omtrdc.net^
 ||online-metrix.net^
 ||openx.
@@ -463,6 +465,7 @@ youtube.com###watch-related
 ||referrer.disqus.com^
 ||reinvigorate.net^
 ||res-x.com^
+||revdepo.com^
 ||revsci.net^
 ||rfihub.
 ||richmedia247.com^
@@ -483,6 +486,7 @@ youtube.com###watch-related
 ||stackadapt.com^
 ||statcounter.com^
 ||stats.
+||stuff.co.nz/images/blocker.png
 ||swoop.com^
 ||taboola.com^
 ||tagsrvcs.com^
