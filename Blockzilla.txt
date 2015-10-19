@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.86
+! Version 1.87
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -329,6 +329,7 @@ youtube.com###watch-related
 ||beap-bc.yahoo.com^
 ||beap.gemini.yahoo.com^
 ||betrad.com^
+||beyondd.co.nz^
 ||bidswitch.net^
 ||bkrtx.com^
 ||bluekai.com^
