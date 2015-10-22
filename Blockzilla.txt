@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.87
+! Version 1.88
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -78,6 +78,7 @@
 ##.ad-container
 ##.ad-div
 ##.ad-leaderboard
+##.ad-slot
 ##.ad300x250
 ##.adBox
 ##.adContainer
@@ -193,6 +194,7 @@
 /bct?pid=
 /beacon.
 /c.gif?
+/cc.silktide.
 /cmdatatagutils.js
 /cookie_backup.php?
 /count.json?
@@ -279,6 +281,7 @@ wikipedia.org###centralNotice
 yahoo.com###dmRosAdWrapper-MainNorth
 yahoo.com###dmRosAdWrapper-MainSouth
 yahoo.com###my-adsFPAD-base
+yahoo.com###yom-ad-LREC
 yahoo.com##LI[data-beacon^="https://beap.gemini.yahoo.com/"]
 youtube.com###feed-main-what_to_watch
 youtube.com###watch-channel-brand-div
