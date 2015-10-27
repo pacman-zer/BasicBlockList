@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.89
+! Version 1.90
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -458,6 +458,7 @@ youtube.com###watch-related
 ||partnerads.
 ||partnerads1.
 ||peer39.net^
+||performgroup.com^$domain=stuff.co.nz
 ||picadmedia.com^
 ||pinterest.com^$third-party
 ||pixel.
