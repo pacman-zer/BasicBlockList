@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.93
+! Version 1.94
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -372,7 +372,6 @@ youtube.com###watch-related
 ||dailymail.co.uk/s/l?t=
 ||delivery47.com^
 ||demdex.net^
-||disqus.com/*count.js?
 ||disqus.com/api/ping?
 ||disqus.com/count.js
 ||disqus.com/thread.js?url=
