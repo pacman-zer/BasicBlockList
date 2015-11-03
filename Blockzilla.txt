@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.92
+! Version 1.93
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -121,6 +121,7 @@
 ##.home-ad-container
 ##.item-container-ad
 ##.marketing-ad
+##.masthead-ad
 ##.mpu
 ##.other_adv
 ##.resultad
@@ -221,6 +222,7 @@
 /impression.php
 /javascript/ads.
 /js/ads/*
+/js/analytics/*
 /jserver/site
 /log.gif?
 /maxymiser/*
@@ -289,6 +291,7 @@ youtube.com###watch-related
 ||112.2o7.net^
 ||204st.us^
 ||247realmedia.com^
+||3lift.com^
 ||4dsply.com^
 ||a.gsmarena.com^
 ||ad-apac.doubleclick.net^
@@ -355,6 +358,7 @@ youtube.com###watch-related
 ||cloudfront.net/log.js
 ||cloudfront.net/opentag-
 ||comscore.com^
+||connect.facebook.net^$third-party
 ||content.ad^
 ||contextweb.com^
 ||coremetrics.com^
@@ -370,9 +374,11 @@ youtube.com###watch-related
 ||demdex.net^
 ||disqus.com/*count.js?
 ||disqus.com/api/ping?
+||disqus.com/count.js
 ||disqus.com/thread.js?url=
 ||dl-rms.com^
 ||dmtracker.com^
+||dnn506yrbagrg.cloudfront.net^
 ||domdex.com^
 ||dotomi.com^
 ||doubleclick.net/pfadx/
@@ -395,6 +401,7 @@ youtube.com###watch-related
 ||game-advertising-online.com^
 ||geo.yahoo.com^
 ||getclicky.com^
+||gigya.com^
 ||glanceguide.com^
 ||google-analytics.com*/collect?
 ||googleadservices.com^
@@ -483,6 +490,7 @@ youtube.com###watch-related
 ||scribol.com^$third-party
 ||serving-sys.com^
 ||shareasale.com^
+||sharethis.com^$third-party
 ||simplereach.com^
 ||siteapps.com^$third-party
 ||sitemeter.com^
@@ -496,6 +504,7 @@ youtube.com###watch-related
 ||stuff.co.nz/images/blocker.png
 ||swoop.com^
 ||taboola.com^
+||taboolasyndication.com^
 ||tagsrvcs.com^
 ||teads.tv^
 ||tealium.hs.llnwd.net^
@@ -505,6 +514,7 @@ youtube.com###watch-related
 ||triggit.com^
 ||turn.com^
 ||tvnz.co.nz/*/izombie/
+||twitter.com^$third-party
 ||tynt.com^
 ||v.fwmrm.net/ad/
 ||verticalacuity.com/vat/
