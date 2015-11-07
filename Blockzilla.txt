@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.95
+! Version 1.96
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -200,6 +200,7 @@
 /cleardot.gif
 /cmdatatagutils.js
 /cookie_backup.php?
+/cookieconsent.
 /count.json?
 /counter.php?
 /csi?v=$image
@@ -264,6 +265,7 @@ amazon.com###DAr2
 amazon.com###DAr7
 facebook.com###pagelet_side_ads
 facebook.com##.ego_unit_container
+filehippo.com###header-above-content-leaderboard
 google.com##.ra
 google.com,google.co.nz###pmocntr2
 google.com,google.co.nz###tads
