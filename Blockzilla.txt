@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.98
+! Version 1.99
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -346,6 +346,7 @@ youtube.com###watch-related
 ||bkrtx.com^
 ||bluekai.com^
 ||boomtrain.com^
+||bounceexchange.com^
 ||bttrack.com^
 ||burstnet.com^
 ||buysellads.com^
@@ -524,6 +525,7 @@ youtube.com###watch-related
 ||tvnz.co.nz/*/izombie/
 ||twitter.com^$third-party
 ||tynt.com^
+||typekit.net^
 ||v.fwmrm.net/ad/
 ||verticalacuity.com/vat/
 ||viglink.com^
