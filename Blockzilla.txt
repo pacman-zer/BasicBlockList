@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.96
+! Version 1.97
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -288,6 +288,7 @@ yahoo.com###dmRosAdWrapper-MainNorth
 yahoo.com###dmRosAdWrapper-MainSouth
 yahoo.com###my-adsFPAD-base
 yahoo.com###yom-ad-LREC
+yahoo.com##.Feedback
 yahoo.com##LI[data-beacon^="https://beap.gemini.yahoo.com/"]
 youtube.com###feed-main-what_to_watch
 youtube.com###watch-channel-brand-div
@@ -334,6 +335,7 @@ youtube.com###watch-related
 ||atdmt.com^
 ||ayboll.com^
 ||banners.itunes.apple.com^
+||bats.video.yahoo.com^
 ||bazaarvoice.com/*.gif?
 ||bazaarvoice.com/bvstaging/
 ||bc.yahoo.com^
@@ -365,6 +367,7 @@ youtube.com###watch-related
 ||connect.facebook.net^$third-party
 ||content.ad^
 ||contextweb.com^
+||conviva.com^
 ||coremetrics.com^
 ||criteo.com^
 ||crowdscience.com^
@@ -386,7 +389,7 @@ youtube.com###watch-related
 ||domdex.com^
 ||dotomi.com^
 ||doubleclick.net/pfadx/
-||doubleclick.net^$domain=telegraph.co.uk|youtube.com
+||doubleclick.net^$domain=telegraph.co.uk|yahoo.com|youtube.com
 ||doubleclick.net^$~object-subrequest
 ||dw.com.com^
 ||dynamicyield.com^
@@ -441,6 +444,7 @@ youtube.com###watch-related
 ||lognormal.net^
 ||marketingsolutions.yahoo.com^
 ||marketo.net^
+||mdadx.com^
 ||media.net^
 ||media6degrees.com^
 ||metrics.
@@ -538,6 +542,7 @@ youtube.com###watch-related
 ||xtendmedia.com^
 ||yadro.ru^
 ||yahoo.com/contextual-shortcuts
+||yahoo.com/sdarla/
 ||yandex.ru^
 ||yieldmanager.
 ||yldbt.com^
