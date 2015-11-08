@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 1.99
+! Version 2
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -197,7 +197,6 @@
 /beacon.
 /c.gif?
 /cc.silktide.
-/cleardot.gif
 /cmdatatagutils.js
 /cookie_backup.php?
 /cookieconsent.
