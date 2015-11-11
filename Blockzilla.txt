@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2
+! Version 2.1
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -554,3 +554,4 @@ youtube.com###watch-related
 ! ---------- Exceptions ----------
 !
 @@/beacon.$domain=engadget.com
+@@/tracking/*$domain=ups.com
