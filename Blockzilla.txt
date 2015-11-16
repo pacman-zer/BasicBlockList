@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.2
+! Version 2.3
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -457,6 +457,7 @@ youtube.com###watch-related
 ||mucocutaneousmyrmecophaga.com^
 ||nanigans.com^
 ||neighbourly.co.nz^$third-party
+||netmng.com^
 ||netshelter.net^
 ||newrelic.com^
 ||noisetrade.com/*-ad-
