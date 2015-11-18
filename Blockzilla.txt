@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.3
+! Version 2.4
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -357,6 +357,7 @@ youtube.com###watch-related
 ||channelintelligence.com^
 ||chartbeat.
 ||chitika.net^
+||click.status.xbox.com^$image
 ||clickfuse.com^
 ||clicktale.net^
 ||cloudfront.net/*&referrer=
