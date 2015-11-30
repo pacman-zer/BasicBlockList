@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.4
+! Version 2.5
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -426,6 +426,7 @@ youtube.com###watch-related
 ||id.google.*/verify/
 ||igodigital.com^
 ||imrworldwide.com^
+||infinity-tracking.net^
 ||infolinks.com^
 ||inskinad.com^
 ||intellitxt.com^
@@ -477,6 +478,7 @@ youtube.com###watch-related
 ||partnerads.
 ||partnerads1.
 ||peer39.net^
+||perfectaudience.com^
 ||performgroup.com^$domain=stuff.co.nz
 ||picadmedia.com^
 ||pinterest.com^$third-party
