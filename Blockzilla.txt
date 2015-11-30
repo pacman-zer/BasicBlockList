@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.5
+! Version 2.6
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -343,6 +343,7 @@ youtube.com###watch-related
 ||betrad.com^
 ||beyondd.co.nz^
 ||bidswitch.net^
+||bizographics.com^
 ||bkrtx.com^
 ||bluekai.com^
 ||boomtrain.com^
