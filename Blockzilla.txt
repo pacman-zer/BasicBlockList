@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.6
+! Version 2.7
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -259,6 +259,7 @@ _ads&
 _ads.html
 _banner.$domain=youtube.com
 _social_tracking.
+_store_analytics?
 _tracker.js?
 amazon.com###DAcrt
 amazon.com###DAr2
@@ -502,6 +503,7 @@ youtube.com###watch-related
 ||scanalert.com/meter/
 ||scorecardresearch.com^
 ||scribol.com^$third-party
+||servedbyopenx.com^
 ||serving-sys.com^
 ||shareasale.com^
 ||sharethis.com^$third-party
@@ -525,6 +527,7 @@ youtube.com###watch-related
 ||tealium.hs.llnwd.net^
 ||telegraph.co.uk/*/indeed/
 ||trackalyzer.com^
+||trends.revcontent.com^
 ||tribalfusion.com^
 ||triggit.com^
 ||turn.com^
