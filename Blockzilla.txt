@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.13
+! Version 2.14
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -295,6 +295,7 @@ yahoo.com##LI[data-beacon^="https://beap.gemini.yahoo.com/"]
 youtube.com###feed-main-what_to_watch
 youtube.com###watch-channel-brand-div
 youtube.com###watch-related
+youtube.com##.pyv-afc-ads-container
 ||112.2o7.net^
 ||204st.us^
 ||247realmedia.com^
