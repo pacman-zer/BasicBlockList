@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.14
+! Version 2.15
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -266,6 +266,7 @@ _tracker.js?
 amazon.com###DAcrt
 amazon.com###DAr2
 amazon.com###DAr7
+amazon.com###sponsored-products-dp_feature_div
 facebook.com###pagelet_side_ads
 facebook.com##.ego_unit_container
 filehippo.com###header-above-content-leaderboard
