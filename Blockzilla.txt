@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.17
+! Version 2.18
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -574,4 +574,5 @@ youtube.com##.pyv-afc-ads-container
 @@/beacon.$domain=amazon.com|engadget.com
 @@/track/*$domain=bandcamp.com
 @@/tracking/*$domain=ups.com
+@@||pixel.$domain=pixel.google.com
 @@||stats.$domain=stats.govt.nz
