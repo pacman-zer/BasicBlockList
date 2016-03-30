@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.19
+! Version 2.20
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -175,6 +175,7 @@
 /?metric=
 /Count.cgi?
 /__utm.gif
+/ad-banner-
 /ad.html?
 /ad.php?
 /ad1.
@@ -539,7 +540,6 @@ youtube.com##.pyv-afc-ads-container
 ||triggit.com^
 ||tritondigital.com^
 ||turn.com^
-||tvnz.co.nz/*/izombie/
 ||twitter.com^$third-party
 ||tynt.com^
 ||typekit.net^
