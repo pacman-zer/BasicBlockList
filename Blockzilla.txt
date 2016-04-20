@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.20
+! Version 2.21
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -286,6 +286,7 @@ nzherald.co.nz###specialOffersCarousel
 nzherald.co.nz##.nzh-extendedbanner
 sourceforge.net##.ads
 telegraph.co.uk###disqus_thread
+telegraph.co.uk##.iabUnit
 telegraph.co.uk##.innerPlugin
 telegraph.co.uk##.mnIframe
 twitter.com##.promoted-account
@@ -493,10 +494,12 @@ youtube.com##.pyv-afc-ads-container
 ||picadmedia.com^
 ||pinterest.com^$third-party
 ||pixel.
+||polarmobile.com^
 ||postrelease.com^
 ||pro-market.net^
 ||qualtrics.com^
 ||quantserve.com^
+||qubitproducts.com^
 ||questionmarket.com^
 ||recomendedsite.com^
 ||referrer.disqus.com^
