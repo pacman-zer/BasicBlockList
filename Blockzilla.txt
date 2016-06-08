@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.25
+! Version 2.26
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -299,9 +299,7 @@ yahoo.com###dmRosAdWrapper-MainSouth
 yahoo.com###my-adsFPAD-base
 yahoo.com###yom-ad-LREC
 yahoo.com##LI[data-beacon^="https://beap.gemini.yahoo.com/"]
-youtube.com###feed-main-what_to_watch
 youtube.com###watch-channel-brand-div
-youtube.com###watch-related
 youtube.com##.pyv-afc-ads-container
 ||112.2o7.net^
 ||204st.us^
@@ -576,6 +574,12 @@ youtube.com##.pyv-afc-ads-container
 ||zedo.com^
 ||zergnet.com^$third-party
 ||ziccardia.com^
+!
+! ---------- Not Wanted ----------
+! 
+huffingtonpost.com##.trending
+youtube.com###feed-main-what_to_watch
+youtube.com###watch-related
 !
 ! ---------- Exceptions ----------
 !
