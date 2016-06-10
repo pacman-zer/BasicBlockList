@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.26
+! Version 2.27
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -587,6 +587,6 @@ youtube.com###watch-related
 @@/track/*$domain=bandcamp.com
 @@/tracking/*$domain=ups.com
 @@/webtrends/*$domain=thewarehouse.co.nz
-@@||gigya.com/JS/socialize.js?
+@@||gigya.com^$domain=3now.co.nz
 @@||pixel.$domain=pixel.google.com
 @@||stats.$domain=stats.govt.nz
