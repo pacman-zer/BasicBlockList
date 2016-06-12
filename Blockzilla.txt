@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.27
+! Version 2.28
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -270,6 +270,7 @@ amazon.com###DAr2
 amazon.com###DAr7
 amazon.com###sponsored-products-dp_feature_div
 amazon.com##.amsSparkleAdWrapper
+dailymail.co.uk###smartBanner
 facebook.com###pagelet_side_ads
 facebook.com##.ego_unit_container
 filehippo.com###header-above-content-leaderboard
@@ -313,6 +314,7 @@ youtube.com##.pyv-afc-ads-container
 ||adblade.com^
 ||adblockdetector.com^
 ||adcash.com^
+||adclick.
 ||addthis.com^$third-party
 ||adf.ly^
 ||adlog.com.com^
@@ -416,6 +418,7 @@ youtube.com##.pyv-afc-ads-container
 ||flux.com^
 ||fmpub.net^
 ||foxsnews.net^$popup
+||fqtag.com^
 ||game-advertising-online.com^
 ||geo.yahoo.com^
 ||getclicky.com^
@@ -451,6 +454,7 @@ youtube.com##.pyv-afc-ads-container
 ||legolas-media.com^
 ||lijit.com^
 ||linkedin.com^$third-party
+||linkwithin.com/pixel.png
 ||livefyre.com^$xmlhttprequest
 ||log.
 ||lognormal.net^
