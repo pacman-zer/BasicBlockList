@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.28
+! Version 2.29
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -341,7 +341,9 @@ youtube.com##.pyv-afc-ads-container
 ||amung.us^
 ||analytics.
 ||andomedia.com^
+||anverlindo.info^
 ||apnmarketplace.co.nz^
+||as.ebz.io^
 ||assoc-amazon.com^$third-party
 ||atdmt.com^
 ||ayboll.com^
@@ -506,6 +508,7 @@ youtube.com##.pyv-afc-ads-container
 ||quantserve.com^
 ||qubitproducts.com^
 ||questionmarket.com^
+||rapzilla.com/rz/images/FrontGate_
 ||recomendedsite.com^
 ||referrer.disqus.com^
 ||reinvigorate.net^
@@ -531,10 +534,12 @@ youtube.com##.pyv-afc-ads-container
 ||snapengage.com^$image,third-party
 ||specificclick.net^
 ||spylog.ru^
+||sq2trk2.com^$popup
 ||stackadapt.com^
 ||statcounter.com^
 ||stats.
 ||stuff.co.nz/images/blocker.png
+||survicate.com^
 ||swoop.com^
 ||t.paypal.com^
 ||taboola.com^
