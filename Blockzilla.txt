@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.30
+! Version 2.31
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -80,6 +80,7 @@
 ##.ad-div
 ##.ad-leaderboard
 ##.ad-slot
+##.ad-unit-label
 ##.ad300x250
 ##.adBox
 ##.adContainer
@@ -394,6 +395,7 @@ youtube.com##.pyv-afc-ads-container
 ||dailymail.co.uk/s/l?t=
 ||delivery47.com^
 ||demdex.net^
+||dirt.dennis.co.uk^
 ||disqus.com/api/ping?
 ||disqus.com/count.js
 ||disqus.com/get_
@@ -562,6 +564,7 @@ youtube.com##.pyv-afc-ads-container
 ||viglink.com^
 ||virool.com^
 ||visualrevenue.com^
+||visualwebsiteoptimizer.com^
 ||vizury.com^
 ||w55c.net^
 ||webads.co.nz^
