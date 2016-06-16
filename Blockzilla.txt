@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.31
+! Version 2.32
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -316,6 +316,7 @@ youtube.com##.pyv-afc-ads-container
 ||adblockdetector.com^
 ||adcash.com^
 ||adclick.
+||addnow.com/tracker/
 ||addthis.com^$third-party
 ||adf.ly^
 ||adlog.com.com^
@@ -342,6 +343,7 @@ youtube.com##.pyv-afc-ads-container
 ||amung.us^
 ||analytics.
 ||andomedia.com^
+||androidcentral.com/passport/images/
 ||anverlindo.info^
 ||apnmarketplace.co.nz^
 ||as.ebz.io^
