@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.32
+! Version 2.33
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -107,6 +107,7 @@
 ##.advertisingTable
 ##.affiliate-module
 ##.article_ad
+##.b_ad
 ##.banner-ad
 ##.bannerAd
 ##.display-ad
@@ -351,6 +352,8 @@ youtube.com##.pyv-afc-ads-container
 ||atdmt.com^
 ||ayboll.com^
 ||banners.itunes.apple.com^
+||bat.bing.com^$image
+||bat.r.msn.com^$image
 ||bats.video.yahoo.com^
 ||bazaarvoice.com/*.gif?
 ||bazaarvoice.com/bvstaging/
