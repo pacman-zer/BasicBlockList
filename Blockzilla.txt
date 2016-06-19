@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.35
+! Version 2.36
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -490,7 +490,6 @@ youtube.com##.pyv-afc-ads-container
 ||neighbourly.co.nz^$third-party
 ||netmng.com^
 ||netshelter.net^
-/images/sitetakeovers/*
 ||newrelic.com^
 ||noisetrade.com/*-ad-
 ||odesaconflate.com^
