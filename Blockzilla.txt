@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.36
+! Version 2.37
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -100,6 +100,7 @@
 ##.adroot
 ##.adsbygoogle
 ##.adtop
+##.adunit_rectangle
 ##.advert
 ##.advertise
 ##.advertiseText
@@ -178,6 +179,7 @@
 /1pix.gif?
 /?file=ads&
 /?metric=
+/AdvertisingModule.
 /Count.cgi?
 /__utm.gif
 /ad-banner-
