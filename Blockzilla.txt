@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.34
+! Version 2.35
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -288,8 +288,10 @@ imdb.com###amazon-affiliates
 imdb.com###top_rhs_wrapper
 mail.google.com##.aKB
 mail.google.com##.nH.PS
+newreleasetoday.com##.style5
 nzherald.co.nz###mrktImg
 nzherald.co.nz###specialOffersCarousel
+nzherald.co.nz##.logoTagContainer
 nzherald.co.nz##.nzh-extendedbanner
 sourceforge.net##.ads
 telegraph.co.uk###disqus_thread
@@ -488,6 +490,7 @@ youtube.com##.pyv-afc-ads-container
 ||neighbourly.co.nz^$third-party
 ||netmng.com^
 ||netshelter.net^
+/images/sitetakeovers/*
 ||newrelic.com^
 ||noisetrade.com/*-ad-
 ||odesaconflate.com^
@@ -575,6 +578,7 @@ youtube.com##.pyv-afc-ads-container
 ||visualwebsiteoptimizer.com^
 ||vizury.com^
 ||w55c.net^
+||watchme.co.nz^$third-party
 ||webads.co.nz^
 ||webtrendslive.com^
 ||wikia-beacon.com^
