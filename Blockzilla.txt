@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.38
+! Version 2.39
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -429,6 +429,7 @@ youtube.com##.pyv-afc-ads-container
 ||exelator.com^
 ||exponential.com^
 ||extreme-dm.com^
+||eyeota.net^
 ||fastclick.net^
 ||flix360.com^
 ||flux.com^
