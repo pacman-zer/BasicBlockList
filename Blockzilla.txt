@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.37
+! Version 2.38
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -96,6 +96,7 @@
 ##.ad_top
 ##.adblock
 ##.adbox
+##.adfliction
 ##.admpu
 ##.adroot
 ##.adsbygoogle
@@ -290,7 +291,6 @@ imdb.com###amazon-affiliates
 imdb.com###top_rhs_wrapper
 mail.google.com##.aKB
 mail.google.com##.nH.PS
-newreleasetoday.com##.style5
 nzherald.co.nz###mrktImg
 nzherald.co.nz###specialOffersCarousel
 nzherald.co.nz##.logoTagContainer
