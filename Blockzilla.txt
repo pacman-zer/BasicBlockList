@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.42
+! Version 2.43
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -109,6 +109,7 @@
 ##.advertisement-layout
 ##.advertising
 ##.advertisingTable
+##.advertorial-pointer
 ##.affiliate-module
 ##.article_ad
 ##.b_ad
@@ -605,6 +606,7 @@ youtube.com##.pyv-afc-ads-container
 !
 ! ---------- Not Wanted ----------
 ! 
+facebook.com###u_0_64
 huffingtonpost.com##.trending
 youtube.com###feed-main-what_to_watch
 youtube.com###watch-related
