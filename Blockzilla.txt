@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.47
+! Version 2.48
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -85,6 +85,7 @@
 ##.ad-slot
 ##.ad-tag
 ##.ad-unit-label
+##.ad-zone-container
 ##.ad300x250
 ##.adBox
 ##.adContainer
