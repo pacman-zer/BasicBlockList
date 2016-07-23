@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.50
+! Version 2.51
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -459,7 +459,6 @@ youtube.com##.pyv-afc-ads-container
 ||gravity.com^
 ||gscounters.
 ||gumgum.com^
-||gurgle.zdbb.net^
 ||gwallet.com^
 ||histats.com^
 ||iad.liveperson.net^
@@ -606,6 +605,7 @@ youtube.com##.pyv-afc-ads-container
 ||yieldmanager.
 ||yldbt.com^
 ||ytimg.com/*_background.jpg
+||zdbb.net^
 ||zedo.com^
 ||zergnet.com^$third-party
 ||ziccardia.com^
