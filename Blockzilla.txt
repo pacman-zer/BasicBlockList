@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.49
+! Version 2.50
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -296,6 +296,7 @@ i.stuff.co.nz##.iframe-carousel
 images/ads/
 imdb.com###amazon-affiliates
 imdb.com###top_rhs_wrapper
+m.au.ign.com###queen
 mail.google.com##.aKB
 mail.google.com##.nH.PS
 nzherald.co.nz###mrktImg
@@ -458,6 +459,7 @@ youtube.com##.pyv-afc-ads-container
 ||gravity.com^
 ||gscounters.
 ||gumgum.com^
+||gurgle.zdbb.net^
 ||gwallet.com^
 ||histats.com^
 ||iad.liveperson.net^
