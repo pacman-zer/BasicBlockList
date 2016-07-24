@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version 2.52
+! Version 2.53
 ! Expires: 1 hours
 !
 ! Title: Blockzilla
@@ -82,6 +82,7 @@
 ##.ad-div
 ##.ad-header
 ##.ad-leaderboard
+##.ad-sample
 ##.ad-slot
 ##.ad-tag
 ##.ad-unit-label
@@ -160,6 +161,7 @@
 ##A[href^="http://www.ringtonematcher.com/"]
 ##A[title="Advertising"]
 ##DIV[class^="box-ad"]
+##DIV[id*="FloatingBanner"]
 ##DIV[id^="div-gpt-ad-"]
 &ad_size=
 &adunit=
